@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+
+# Build artifacts
+/bin
+/obj
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
